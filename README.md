@@ -20,7 +20,7 @@ método de Newell no requieren convexidad, solo que el contorno sea simple).
 
    - **Linux:** `~/.local/share/ingetrazo/plugins/`
      (o `$XDG_DATA_HOME/ingetrazo/plugins/` si lo tienes definido)
-   - **Windows:** `%APPDATA%\Roaming\ingetrazo\plugins`
+   - **Windows:** `%APPDATA%\ingetrazo\plugins`
 
    La propia aplicación te abre esa carpeta desde
    **Extensions ▸ Abrir carpeta de plugins**.

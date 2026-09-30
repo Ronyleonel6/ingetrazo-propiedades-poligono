@@ -69,9 +69,9 @@ opción al diálogo.
 
 - Probado con **IngeTrazo 0.5.6.1** (última prueba: septiembre de 2026).
 - La API de plugins de IngeTrazo **no es estable todavía** durante la serie
-  0.5.6.1: pueden aparecer cambios incompatibles en cualquier actualización.
+  0.x: pueden aparecer cambios incompatibles en cualquier actualización.
   Si tras actualizar IngeTrazo el plugin deja de funcionar, abre una
-  [issue](https://github.com/TU_USUARIO/ingetrazo-propiedades-poligono/issues)
+  [issue](https://github.com/Ronyleonel6/ingetrazo-propiedades-poligono/issues)
   con el mensaje de la barra de estado y la versión de IngeTrazo.
 
 ## Limitaciones conocidas

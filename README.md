@@ -90,6 +90,6 @@ MIT. Ver [LICENSE](LICENSE).
 
 ## Créditos
 
-Escrito por RonyLeonel6 con ayuda de un asistente de IA Deepseek. Inspirado en la
-idea de ya ver mas plugins en el programa. 
+Escrito por RonyLeonel6 con ayuda de un asistente de IA DeepSeek. Inspirado en la
+idea de ya ver más plugins en el programa. 
 
